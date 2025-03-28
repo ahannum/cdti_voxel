@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/home/ahannum/Documents/Voxel/Code/Software')
+sys.path.append('Software/CarDpy-master')
 import glob
 import os
 import scipy.io
@@ -15,7 +15,7 @@ import numpy as np
 from   cDTIpy.Diffusion.DTI import DTI_recon
 from cDTIpy.Colormaps.Diffusion import cDTI_Colormaps_Generator
 
-cDTI_cmaps = cDTI_Colormaps_Generator('/home/ahannum/Documents/Voxel/Code/Software/cDTIpy/Colormaps')
+cDTI_cmaps = cDTI_Colormaps_Generator()
 
 
 
