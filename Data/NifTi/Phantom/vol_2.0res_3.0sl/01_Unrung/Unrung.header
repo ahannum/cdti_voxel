@@ -1,0 +1,12 @@
+Manufacturer:          Siemens Healthineers
+Scanner Model:         MAGNETOM Vida Fit
+Magnet Strength:       3 T
+Patient ID:            Phantom
+Patient Age:           32
+Patient Sex:           O
+Body Part Examined:    BRAIN
+Echo Time:             85.0 ms
+Repetition Time:       3000 ms
+Trigger Time:          N/A ms
+Phase Encode Polarity: Positive
+Partial Fourier:       8/8
