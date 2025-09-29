@@ -1,0 +1,16 @@
+Manufacturer:          SIEMENS
+Scanner Model:         Skyra
+Magnet Strength:       3 T
+Image Type:            Magnitude
+Patient ID:            Vox005
+Patient Age:           25
+Patient Sex:           F
+Patient Weight:        61.23 kg
+Body Part Examined:    HEART
+Slice Spacing:         N/A mm
+Echo Time:             85 ms
+Repetition Time:       310 ms
+Trigger Time:          302.5 ms
+Phase Encode Polarity: Positive
+Parallel Imaging:      2
+Partial Fourier:       8/8
